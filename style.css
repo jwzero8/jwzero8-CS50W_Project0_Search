@@ -1,0 +1,35 @@
+.center {
+    text-align: center;
+  }
+
+img {
+  display: block;
+  max-width: 30%;
+  max-height: 30%;
+  margin-left: 35%;
+  margin-right: auto;
+  text-align: center;
+ }
+
+.advancedlogo {
+  max-width: 20%;
+  max-height: 40%;
+  padding-left: 0%;
+}
+
+input {
+  border-radius: 4px;
+}
+
+.topnav a {
+  float: right;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+label {
+  display: inline-block;
+}
